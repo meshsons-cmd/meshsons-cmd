@@ -28,4 +28,4 @@ I thrive in remote environments, bringing a "product-first" mindset to every lin
 ### 📬 Let's Connect  
 * **Email:** [meshsons@gmail.com](mailto:meshsons@gmail.com)
 * **LinkedIn:** [Your LinkedIn URL Here]
-* **Portfolio:** [(https://umesh-jangir.com/)]
+* **Portfolio:** (https://umesh-jangir.com/)
